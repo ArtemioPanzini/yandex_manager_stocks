@@ -1,0 +1,6 @@
+[submodule "modules/Nebesniy_svet"]
+	path = modules/Nebesniy_svet
+	url = https://github.com/ArtemioPanzini/Nebesniy_svet
+[submodule "modules/Beauty_light3"]
+	path = modules/Beauty_light3
+	url = https://github.com/ArtemioPanzini/Beauty_light3

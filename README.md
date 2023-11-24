@@ -1,0 +1,1 @@
+# yandex_manager_stocks
